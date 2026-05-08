@@ -202,25 +202,27 @@ const App = () => {
 
               {/* Right Content */}
               <div className="rg w-full md:w-1/2 flex flex-col justify-center">
-                <h1 className="text-5xl md:text-7xl font-bold">
-                  Still Running,
+                <p className="text-yellow-400 text-sm md:text-lg font-bold tracking-widest uppercase mb-4">
+                  Coming 2026
+                </p>
+                <h1 className="text-6xl md:text-8xl font-black leading-none text-white drop-shadow-lg">
+                  GRAND THEFT
                 </h1>
-                <h1 className="text-5xl md:text-7xl font-bold">Not Hunting</h1>
-                <p className="mt-6 text-lg font-[Helvetica_Now_Display]">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Distinctio possimus, asperiores nam, omnis inventore nesciunt
-                  a architecto.
+                <h1 className="text-6xl md:text-8xl font-black leading-none text-yellow-400 drop-shadow-lg">
+                  AUTO VI
+                </h1>
+                <div className="w-16 h-1 bg-yellow-400 my-6"></div>
+                <p className="mt-6 text-lg md:text-xl leading-relaxed font-[Helvetica_Now_Display] text-gray-300">
+                  Welcome to Vice City. Where the night never ends and the streets never sleep. Rockstar Games presents the most expansive, immersive, and consequential open-world experience ever created.
                 </p>
-                <p className="mt-4 text-lg font-[Helvetica_Now_Display]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                  eius illum fugit...
+                <p className="mt-6 text-lg md:text-xl leading-relaxed font-[Helvetica_Now_Display] text-gray-300">
+                  Seamlessly switch between iconic characters. Navigate a world alive with detail, personality, and danger at every corner. Every choice you make ripples through a living, breathing city.
                 </p>
-                <p className="mt-4 text-lg font-[Helvetica_Now_Display]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. At
-                  eius illum fugit...
+                <p className="mt-6 text-lg md:text-xl leading-relaxed font-[Helvetica_Now_Display] text-gray-300">
+                  This is more than a game. This is a revolution in interactive storytelling and unprecedented scale.
                 </p>
-                <button className="bg-yellow-500 px-6 py-4 text-black mt-8 text-2xl w-fit">
-                  Download Now
+                <button className="bg-yellow-400 hover:bg-yellow-300 px-8 py-4 text-black mt-10 text-2xl font-black w-fit transition-all duration-300 uppercase tracking-wider shadow-lg hover:shadow-xl transform hover:scale-105">
+                  PRE-ORDER NOW
                 </button>
               </div>
             </div>
