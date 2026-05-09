@@ -14,12 +14,6 @@ A Grand Theft Auto-inspired animated landing page built with **React**, **Tailwi
 - 🕹️ Styled with Tailwind CSS
 - 🎥 Built-in scroll prompt (hidden on mobile for better UX)
 
----
-
-## 📸 Preview
-<img width="1920" height="900" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/491cc657-cc10-49ec-a8a9-1776bee14f21" />
-
-
 
 ## 🛠️ Tech Stack
 
@@ -65,11 +59,6 @@ npm run dev
 
 All animations are powered by [GSAP](https://greensock.com/gsap/), with `useGSAP()` for React integration.
 
----
-
-## 📜 License
-
-MIT License — feel free to use, modify, and share with credit.
 
 
 ## 💡 Inspiration
